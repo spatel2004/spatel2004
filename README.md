@@ -43,12 +43,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-## 📈 GitHub Stats (Optional)
-
-> Uncomment below if you'd like to display GitHub stats (after pushing a few more commits):
-
 <!-- 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=spatel2004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatel2004&layout=compact&theme=radical)
